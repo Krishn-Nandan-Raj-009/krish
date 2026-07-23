@@ -1,6 +1,6 @@
-# krish
+# krish_009
 
 # i this repository right now 
 # i just built it for know abot github
 #this is helpful for me 
-# if you find this helpful star it 
+# if you find this helpful star it ******
