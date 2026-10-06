@@ -1,5 +1,5 @@
 <!-- ============ HEADER ============ -->
-<div align="center">
+<div align="center"> 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=200&section=header&text=Krishna%20Nandan%20Raj&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%2FML%20Enthusiast&descAlignY=58&descSize=20" width="100%" alt="Krishna Nandan Raj - Full-Stack Developer | AI/ML Enthusiast" />
 
